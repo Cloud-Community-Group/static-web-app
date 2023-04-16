@@ -105,7 +105,7 @@ Fork this repository to your own GitHub account.
 - Clone the repository to your local machine using git clone `https://github.com/your-username/static-web-app.git`
 - Create a new branch with a descriptive name using `git checkout -b branch-name`.
 - Make your changes and commit them with a descriptive commit message using `git commit -m "your message here"`.
-Push your changes to your forked repository using `git push origin branch-name`.
+- Push your changes to your forked repository using `git push origin branch-name`.
 - Create a pull request on the original repository and describe the changes you made.
 
 Thank you for your contribution!
@@ -127,3 +127,5 @@ Thank you for your contribution!
 - [Anushka Saxena](https://github.com/SaxenaAnushka102)
 
 Their guidance and support have been invaluable in helping us achieve our goals and create a successful project.
+
+
