@@ -115,6 +115,8 @@ Thank you for your contribution!
 
 [Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps](https://learn.microsoft.com/en-IN/training/modules/publish-app-service-static-web-app-api/)
 
+[Quickstart: Building your first static site with Azure Static Web Apps](https://learn.microsoft.com/en-IN/azure/static-web-apps/getting-started?tabs=react)
+
 ## Contributors
 
 - [Sudit Kumar Jha](https://github.com/SuditJha)
