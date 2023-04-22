@@ -119,9 +119,9 @@ Thank you for your contribution!
 
 ## Future Enhancement:
 
-1. Need to bulid an interactive library webisite 
+1. Need to bulid an interactive library website 
 
-2. Add an better UI 
+2. Add an UI 
 
 3. Adding extra other functionalites.
 
