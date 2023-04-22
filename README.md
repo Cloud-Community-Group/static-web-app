@@ -49,17 +49,26 @@ Step 1: Log in to Azure
 
 Go to the Azure portal at **[https://portal.azure.com/](https://portal.azure.com/)** and log in with your credentials.
 
+![image](https://user-images.githubusercontent.com/58849657/233801644-de8fd621-9cef-4bb6-99cc-2b328c3c3e8b.png)
+
 Step 2: Create a new resource
 
 Click on the "+ Create a resource" button in the top-left corner of the portal.
+
+![image](https://user-images.githubusercontent.com/58849657/233802381-73667e7d-351d-4f48-93e6-139066bee185.png)
 
 Step 3: Search for Static Web App
 
 Search for "Static Web App" in the search bar at the top of the page and select it.
 
+![image](https://user-images.githubusercontent.com/58849657/233802001-65703e59-80db-4ba3-8f1e-0d8ac18e3bac.png)
+
+
 Step 4: Create a new Static Web App
 
 Click the "Create" button to create a new Static Web App.
+
+![image](https://user-images.githubusercontent.com/58849657/233802473-84ad7f4f-09f4-401e-b8d9-128f6f049f83.png)
 
 Step 5: Fill out the form
 
@@ -73,19 +82,27 @@ Fill out the form with the following information:
 - Operating System: Select "Linux".
 - SKU and size: Select the "Free" SKU.
 
+![image](https://user-images.githubusercontent.com/58849657/233802573-8cd15116-1041-4113-81a2-35a0f0846597.png)
+
 Then, click "Review + create" at the bottom of the page.
 
 Step 6: Review and create
 
 Review the information on the summary page, and if everything is correct, click the "Create" button.
 
+![image](https://user-images.githubusercontent.com/58849657/233802636-c1821bc1-34c9-4352-b223-20de079e2960.png)
+
 Step 7: Wait for deployment to complete
 
 Wait for the deployment to complete. This may take a few minutes.
 
+![image](https://user-images.githubusercontent.com/58849657/233802685-79586eca-d4b9-4ade-8793-bb030cdb2ca3.png)
+
 Step 8: Access your Static Web App
 
 Once the deployment is complete, go to the "Overview" page of your Static Web App. Here, you can find the URL for your app. Click on the URL to access your Static Web App.
+
+![image](https://user-images.githubusercontent.com/58849657/233802784-bc0b4385-98b9-4aeb-8c3a-7dd0cd1f264c.png)
 
 Step 9: Upload your code
 
