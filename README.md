@@ -117,6 +117,14 @@ Thank you for your contribution!
 
 [Quickstart: Building your first static site with Azure Static Web Apps](https://learn.microsoft.com/en-IN/azure/static-web-apps/getting-started?tabs=react)
 
+## Future Enhancement:
+
+1. Need to bulid an interactive library webisite 
+
+2. Add an better UI 
+
+3. Adding extra other functionalites.
+
 ## Contributors
 
 - [Sudit Kumar Jha](https://github.com/SuditJha)
